@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scaron" format="1">
+  <advance width="485"/>
+  <unicode hex="0160"/>
+  <outline>
+    <contour>
+      <point x="412" y="910" type="line"/>
+      <point x="411" y="909"/>
+      <point x="393" y="912"/>
+      <point x="362" y="916"/>
+      <point x="321" y="918"/>
+      <point x="297" y="915" type="qcurve"/>
+      <point x="294" y="915"/>
+      <point x="280" y="902"/>
+      <point x="265" y="885"/>
+      <point x="251" y="869"/>
+      <point x="246" y="866" type="qcurve"/>
+      <point x="242" y="868"/>
+      <point x="228" y="883"/>
+      <point x="212" y="900"/>
+      <point x="198" y="914"/>
+      <point x="194" y="915" type="qcurve"/>
+      <point x="185" y="916"/>
+      <point x="174" y="916"/>
+      <point x="155" y="915"/>
+      <point x="120" y="913"/>
+      <point x="87" y="911" type="qcurve"/>
+      <point x="121" y="865"/>
+      <point x="205" y="789"/>
+      <point x="249" y="748" type="qcurve"/>
+    </contour>
+    <component base="S" xOffset="-47"/>
+  </outline>
+</glyph>

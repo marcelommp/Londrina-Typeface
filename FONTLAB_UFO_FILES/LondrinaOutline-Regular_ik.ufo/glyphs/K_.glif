@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="459"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="468" y="6" type="line" name="hr01"/>
+      <point x="411" y="123"/>
+      <point x="354" y="241"/>
+      <point x="297" y="359" type="curve"/>
+      <point x="345" y="475"/>
+      <point x="431" y="572"/>
+      <point x="467" y="693" type="curve"/>
+      <point x="464" y="701"/>
+      <point x="451" y="702"/>
+      <point x="439" y="702" type="curve" smooth="yes"/>
+      <point x="414" y="702"/>
+      <point x="388" y="700"/>
+      <point x="363" y="700" type="curve" smooth="yes"/>
+      <point x="351" y="700"/>
+      <point x="339" y="701"/>
+      <point x="327" y="703" type="curve"/>
+      <point x="325" y="702"/>
+      <point x="323" y="701"/>
+      <point x="322" y="700" type="curve" smooth="yes"/>
+      <point x="287" y="648"/>
+      <point x="261" y="593"/>
+      <point x="230" y="538" type="curve" smooth="yes"/>
+      <point x="218" y="518"/>
+      <point x="199" y="495"/>
+      <point x="186" y="475" type="curve"/>
+      <point x="186" y="549"/>
+      <point x="186" y="623"/>
+      <point x="184" y="697" type="curve"/>
+      <point x="182" y="699"/>
+      <point x="180" y="700"/>
+      <point x="179" y="702" type="curve"/>
+      <point x="134" y="702"/>
+      <point x="89" y="704"/>
+      <point x="45" y="704" type="curve"/>
+      <point x="43" y="702"/>
+      <point x="42" y="700"/>
+      <point x="40" y="698" type="curve"/>
+      <point x="40" y="537"/>
+      <point x="32" y="376"/>
+      <point x="32" y="215" type="curve" smooth="yes"/>
+      <point x="32" y="145"/>
+      <point x="34" y="74"/>
+      <point x="38" y="4" type="curve"/>
+      <point x="48" y="-6"/>
+      <point x="77" y="-9"/>
+      <point x="108" y="-9" type="curve" smooth="yes"/>
+      <point x="144" y="-9"/>
+      <point x="189" y="-6"/>
+      <point x="194" y="5" type="curve"/>
+      <point x="194" y="71"/>
+      <point x="189" y="137"/>
+      <point x="189" y="203" type="curve" smooth="yes"/>
+      <point x="189" y="217"/>
+      <point x="189" y="231"/>
+      <point x="190" y="245" type="curve"/>
+      <point x="231" y="161"/>
+      <point x="262" y="71"/>
+      <point x="321" y="-2" type="curve" name="hr02"/>
+      <point x="344" y="-2"/>
+      <point x="368" y="-6"/>
+      <point x="391" y="-6" type="curve" smooth="yes" name="hr03"/>
+      <point x="416" y="-6"/>
+      <point x="440" y="-5"/>
+      <point x="464" y="-1" type="curve"/>
+    </contour>
+    <contour>
+      <point x="327" y="7" type="curve"/>
+      <point x="266" y="83"/>
+      <point x="236" y="179"/>
+      <point x="191" y="265" type="curve"/>
+      <point x="179" y="266" type="line"/>
+      <point x="179" y="265"/>
+      <point x="180" y="263"/>
+      <point x="181" y="262" type="curve"/>
+      <point x="180" y="242"/>
+      <point x="179" y="222"/>
+      <point x="179" y="202" type="curve" smooth="yes"/>
+      <point x="179" y="137"/>
+      <point x="184" y="73"/>
+      <point x="184" y="9" type="curve"/>
+      <point x="170" y="4"/>
+      <point x="138" y="2"/>
+      <point x="107" y="2" type="curve" smooth="yes"/>
+      <point x="82" y="2"/>
+      <point x="59" y="3"/>
+      <point x="47" y="8" type="curve"/>
+      <point x="43" y="73"/>
+      <point x="42" y="139"/>
+      <point x="42" y="204" type="curve" smooth="yes"/>
+      <point x="42" y="368"/>
+      <point x="50" y="531"/>
+      <point x="50" y="694" type="curve"/>
+      <point x="91" y="694"/>
+      <point x="133" y="692"/>
+      <point x="174" y="692" type="curve"/>
+      <point x="175" y="671"/>
+      <point x="175" y="649"/>
+      <point x="175" y="628" type="curve" smooth="yes"/>
+      <point x="175" y="599"/>
+      <point x="174" y="570"/>
+      <point x="174" y="541" type="curve" smooth="yes"/>
+      <point x="174" y="517"/>
+      <point x="174" y="456"/>
+      <point x="176" y="456" type="curve" smooth="yes"/>
+      <point x="176" y="456"/>
+      <point x="176" y="456"/>
+      <point x="176" y="457" type="curve"/>
+      <point x="179" y="456"/>
+      <point x="183" y="455"/>
+      <point x="186" y="454" type="curve"/>
+      <point x="186" y="455"/>
+      <point x="187" y="456"/>
+      <point x="187" y="457" type="curve" smooth="yes"/>
+      <point x="225" y="495"/>
+      <point x="249" y="553"/>
+      <point x="273" y="600" type="curve" smooth="yes"/>
+      <point x="290" y="633"/>
+      <point x="307" y="662"/>
+      <point x="328" y="692" type="curve"/>
+      <point x="337" y="691"/>
+      <point x="347" y="690"/>
+      <point x="357" y="690" type="curve" smooth="yes"/>
+      <point x="380" y="690"/>
+      <point x="403" y="693"/>
+      <point x="426" y="693" type="curve" smooth="yes"/>
+      <point x="436" y="693"/>
+      <point x="446" y="692"/>
+      <point x="456" y="691" type="curve"/>
+      <point x="421" y="572"/>
+      <point x="334" y="475"/>
+      <point x="288" y="361" type="curve"/>
+      <point x="288" y="357" type="line"/>
+      <point x="344" y="240"/>
+      <point x="400" y="124"/>
+      <point x="456" y="8" type="curve"/>
+      <point x="434" y="5"/>
+      <point x="412" y="4"/>
+      <point x="391" y="4" type="curve" smooth="yes"/>
+      <point x="369" y="4"/>
+      <point x="348" y="5"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjEyIiB3aWR0aD0iLTIxIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI3MDQiIHdpZHRoPSItMjAiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjI5IiB3aWR0aD0i
+MTU0IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhp
+bnRzZXQgcG9pbnRUYWc9ImhyMDIiPgogICAgICA8
+aHN0ZW0gcG9zPSIxOSIgd2lkdGg9Ii0yMSIgLz4K
+ICAgICAgPGhzdGVtIHBvcz0iNzA0IiB3aWR0aD0i
+LTIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIyOSIg
+d2lkdGg9IjE1NCIgLz4KICAgIDwvaGludHNldD4K
+ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAzIj4K
+ICAgICAgPGhzdGVtIHBvcz0iMTUiIHdpZHRoPSIt
+MjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjcwNCIg
+d2lkdGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBv
+cz0iMjkiIHdpZHRoPSIxNTQiIC8+CiAgICA8L2hp
+bnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>
