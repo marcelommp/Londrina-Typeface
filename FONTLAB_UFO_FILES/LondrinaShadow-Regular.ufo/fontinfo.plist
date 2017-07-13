@@ -19,7 +19,7 @@
 	<key>openTypeHheaDescender</key>
 	<integer>-238</integer>
 	<key>openTypeHheaLineGap</key>
-	<integer>27</integer>
+	<integer>0</integer>
 	<key>openTypeNameDescription</key>
 	<string></string>
 	<key>openTypeNameDesigner</key>
@@ -38,11 +38,11 @@
 	<array>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>736</integer>
+	<integer>945</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-260</integer>
+	<integer>-238</integer>
 	<key>openTypeOS2TypoLineGap</key>
-	<integer>53</integer>
+	<integer>0</integer>
 	<key>openTypeOS2VendorID</key>
 	<string>PYRS</string>
 	<key>openTypeOS2WeightClass</key>
@@ -69,10 +69,6 @@
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-75</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>50</integer>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

@@ -10,6 +10,8 @@
 	<integer>1</integer>
 	<key>com.schriftgestaltung.font.Use Line Breaks</key>
 	<integer>1</integer>
+	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
+	<integer>1</integer>
 	<key>com.schriftgestaltung.font.description</key>
 	<string></string>
 	<key>com.schriftgestaltung.font.fsType</key>
@@ -11988,6 +11990,8 @@
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Light</string>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -12221,10 +12225,10 @@
 		<string>dieresis</string>
 		<string>grave</string>
 		<string>tilde</string>
-		<string>_141</string>
 		<string>_144</string>
-		<string>_127</string>
 		<string>_129</string>
+		<string>_127</string>
+		<string>_141</string>
 		<string>_157</string>
 	</array>
 </dict>
