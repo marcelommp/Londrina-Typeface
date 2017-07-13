@@ -10,8 +10,6 @@
 	<integer>1</integer>
 	<key>com.schriftgestaltung.font.Use Line Breaks</key>
 	<integer>1</integer>
-	<key>com.schriftgestaltung.font.description</key>
-	<string></string>
 	<key>com.schriftgestaltung.font.fsType</key>
 	<array>
 	</array>
@@ -63,6 +61,21 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>com.schriftgestaltung.font.Disable Last Change</key>
+		<integer>1</integer>
+		<key>com.schriftgestaltung.font.Use Line Breaks</key>
+		<integer>1</integer>
+		<key>com.schriftgestaltung.font.description</key>
+		<string></string>
+		<key>com.schriftgestaltung.font.fsType</key>
+		<array>
+		</array>
+		<key>com.schriftgestaltung.font.license</key>
+		<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+		<key>com.schriftgestaltung.font.licenseURL</key>
+		<string>http://scripts.sil.org/OFL</string>
+		<key>com.schriftgestaltung.font.vendorID</key>
+		<string>PYRS</string>
 	</dict>
 	<key>com.schriftgestaltung.font.vendorID</key>
 	<string>PYRS</string>
