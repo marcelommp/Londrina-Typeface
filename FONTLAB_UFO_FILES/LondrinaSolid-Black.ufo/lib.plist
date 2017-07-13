@@ -242,7 +242,6 @@
 		<string>nbspace</string>
 		<string>CR</string>
 		<string>.notdef</string>
-		<string>.null</string>
 		<string>Euro</string>
 		<string>cent</string>
 		<string>currency</string>
@@ -282,6 +281,7 @@
 		<string>dieresis</string>
 		<string>grave</string>
 		<string>tilde</string>
+		<string>NULL</string>
 	</array>
 </dict>
 </plist>

@@ -4,8 +4,6 @@
 <dict>
 	<key>.notdef</key>
 	<string>_notdef.glif</string>
-	<key>.null</key>
-	<string>_null.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>AE</key>
@@ -74,6 +72,8 @@
 	<string>M_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
+	<key>NULL</key>
+	<string>N_U_L_L_.glif</string>
 	<key>Ntilde</key>
 	<string>N_tilde.glif</string>
 	<key>O</key>
