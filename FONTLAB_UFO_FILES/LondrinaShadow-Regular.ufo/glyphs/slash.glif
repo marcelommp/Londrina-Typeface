@@ -4,7 +4,7 @@
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="237" y="127" type="line" smooth="yes" name="hr00"/>
+      <point x="237" y="127" type="line" name="hr00" smooth="yes"/>
       <point x="245" y="147"/>
       <point x="252" y="168"/>
       <point x="259" y="188" type="curve"/>
@@ -116,17 +116,15 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0zMSIgd2lkdGg9IjMxIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI1MTUiIHdpZHRoPSItMjAiIC8+
-CiAgICAgIDxoc3RlbSBwb3M9IjcyMSIgd2lkdGg9
-Ii0yMCIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
-bnRTZXRMaXN0Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0zMSIgd2lkdGg9IjMxIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI1MTUiIHdpZHRoPSItMjAiIC8+CiAgICAgIDxoc3RlbSBw
+        b3M9IjcyMSIgd2lkdGg9Ii0yMCIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
+        bnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
   </lib>
 </glyph>

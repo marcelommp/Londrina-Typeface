@@ -120,31 +120,24 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0yOSIgd2lkdGg9IjI5IiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI1NTUiIHdpZHRoPSIxNjQiIC8+
-CiAgICAgIDx2c3RlbSBwb3M9IjI1IiB3aWR0aD0i
-MTczIiAvPgogICAgICA8dnN0ZW0gcG9zPSIyODki
-IHdpZHRoPSIyOCIgLz4KICAgIDwvaGludHNldD4K
-ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAyIj4K
-ICAgICAgPGhzdGVtIHBvcz0iLTEyIiB3aWR0aD0i
-LTIxIiAvPgogICAgICA8aHN0ZW0gcG9zPSI1NTUi
-IHdpZHRoPSIzNCIgLz4KICAgICAgPHZzdGVtIHBv
-cz0iMjUiIHdpZHRoPSIxNzMiIC8+CiAgICAgIDx2
-c3RlbSBwb3M9IjI4OSIgd2lkdGg9IjI4IiAvPgog
-ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9p
-bnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9z
-PSItMjkiIHdpZHRoPSIyOSIgLz4KICAgICAgPGhz
-dGVtIHBvcz0iNTU1IiB3aWR0aD0iMzQiIC8+CiAg
-ICAgIDx2c3RlbSBwb3M9IjE2OCIgd2lkdGg9IjMw
-IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyODkiIHdp
-ZHRoPSIyOCIgLz4KICAgIDwvaGludHNldD4KICA8
-L2hpbnRTZXRMaXN0Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0yOSIgd2lkdGg9IjI5IiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI1NTUiIHdpZHRoPSIxNjQiIC8+CiAgICAgIDx2c3RlbSBw
+        b3M9IjI1IiB3aWR0aD0iMTczIiAvPgogICAgICA8dnN0ZW0gcG9zPSIyODki
+        IHdpZHRoPSIyOCIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
+        aW50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iLTEyIiB3aWR0aD0i
+        LTIxIiAvPgogICAgICA8aHN0ZW0gcG9zPSI1NTUiIHdpZHRoPSIzNCIgLz4K
+        ICAgICAgPHZzdGVtIHBvcz0iMjUiIHdpZHRoPSIxNzMiIC8+CiAgICAgIDx2
+        c3RlbSBwb3M9IjI4OSIgd2lkdGg9IjI4IiAvPgogICAgPC9oaW50c2V0Pgog
+        ICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9z
+        PSItMjkiIHdpZHRoPSIyOSIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTU1IiB3
+        aWR0aD0iMzQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE2OCIgd2lkdGg9IjMw
+        IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyODkiIHdpZHRoPSIyOCIgLz4KICAg
+        IDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
   </lib>
 </glyph>

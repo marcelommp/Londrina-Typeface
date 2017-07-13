@@ -99,17 +99,15 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9IjQ2MiIgd2lkdGg9IjMwIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI1OTAiIHdpZHRoPSI4NCIgLz4K
-ICAgICAgPHZzdGVtIHBvcz0iNDI1IiB3aWR0aD0i
-MjkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50
-U2V0TGlzdD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+
+        CiAgICAgIDxoc3RlbSBwb3M9IjQ2MiIgd2lkdGg9IjMwIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI1OTAiIHdpZHRoPSI4NCIgLz4KICAgICAgPHZzdGVtIHBv
+        cz0iNDI1IiB3aWR0aD0iMjkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50
+        U2V0TGlzdD4K
+      </data>
+    </dict>
   </lib>
 </glyph>

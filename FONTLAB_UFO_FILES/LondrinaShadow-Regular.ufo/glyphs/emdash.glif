@@ -45,20 +45,17 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9IjEyMyIgd2lkdGg9IjI0MyIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iNjQ1IiB3aWR0aD0iMzAiIC8+
-CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBw
-b3M9IjEyMyIgd2lkdGg9IjMwIiAvPgogICAgICA8
-dnN0ZW0gcG9zPSI2NDUiIHdpZHRoPSIzMCIgLz4K
-ICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0
-Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9IjEyMyIgd2lkdGg9IjI0MyIgLz4KICAgICAg
+        PHZzdGVtIHBvcz0iNjQ1IiB3aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+
+        CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBw
+        b3M9IjEyMyIgd2lkdGg9IjMwIiAvPgogICAgICA8dnN0ZW0gcG9zPSI2NDUi
+        IHdpZHRoPSIzMCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0
+        Pgo=
+      </data>
+    </dict>
   </lib>
 </glyph>

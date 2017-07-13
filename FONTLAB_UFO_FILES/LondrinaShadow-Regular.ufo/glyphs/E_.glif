@@ -108,7 +108,7 @@
       <point x="455" y="3" type="curve"/>
       <point x="367" y="3"/>
       <point x="278" y="0"/>
-      <point x="190" y="0" type="curve" smooth="yes" name="hr02"/>
+      <point x="190" y="0" type="curve" name="hr02" smooth="yes"/>
       <point x="139" y="0"/>
       <point x="92" y="1"/>
       <point x="45" y="5" type="curve"/>
@@ -175,27 +175,22 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0zMCIgd2lkdGg9IjE3NSIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iNTEzIiB3aWR0aD0iMTk1IiAv
-PgogICAgICA8dnN0ZW0gcG9zPSIyNSIgd2lkdGg9
-IjE5NyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzE4
-IiB3aWR0aD0iMzEiIC8+CiAgICAgIDx2c3RlbSBw
-b3M9IjQ2MSIgd2lkdGg9IjI5IiAvPgogICAgPC9o
-aW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9
-ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSItMzAi
-IHdpZHRoPSIzMCIgLz4KICAgICAgPGhzdGVtIHBv
-cz0iNDE4IiB3aWR0aD0iMTI0IiAvPgogICAgICA8
-dnN0ZW0gcG9zPSIxODciIHdpZHRoPSIzNSIgLz4K
-ICAgICAgPHZzdGVtIHBvcz0iMzE4IiB3aWR0aD0i
-MzEiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQ2MSIg
-d2lkdGg9IjI5IiAvPgogICAgPC9oaW50c2V0Pgog
-IDwvaGludFNldExpc3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0zMCIgd2lkdGg9IjE3NSIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iNTEzIiB3aWR0aD0iMTk1IiAvPgogICAgICA8dnN0ZW0g
+        cG9zPSIyNSIgd2lkdGg9IjE5NyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzE4
+        IiB3aWR0aD0iMzEiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQ2MSIgd2lkdGg9
+        IjI5IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9
+        ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSItMzAiIHdpZHRoPSIzMCIgLz4K
+        ICAgICAgPGhzdGVtIHBvcz0iNDE4IiB3aWR0aD0iMTI0IiAvPgogICAgICA8
+        dnN0ZW0gcG9zPSIxODciIHdpZHRoPSIzNSIgLz4KICAgICAgPHZzdGVtIHBv
+        cz0iMzE4IiB3aWR0aD0iMzEiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQ2MSIg
+        d2lkdGg9IjI5IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+
+        Cg==
+      </data>
+    </dict>
   </lib>
 </glyph>

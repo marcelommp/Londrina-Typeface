@@ -4,7 +4,7 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="182" y="499" type="line" smooth="yes" name="hr01"/>
+      <point x="182" y="499" type="line" name="hr01" smooth="yes"/>
       <point x="182" y="508"/>
       <point x="168" y="511"/>
       <point x="149" y="511" type="curve" smooth="yes"/>
@@ -26,10 +26,10 @@
       <point x="48" y="-34" type="line"/>
       <point x="71" y="-31"/>
       <point x="80" y="-32"/>
-      <point x="89" y="-32" type="curve" smooth="yes" name="hr02"/>
+      <point x="89" y="-32" type="curve" name="hr02" smooth="yes"/>
       <point x="110" y="-32"/>
       <point x="126" y="-34"/>
-      <point x="143" y="-34" type="curve" smooth="yes" name="hr03"/>
+      <point x="143" y="-34" type="curve" name="hr03" smooth="yes"/>
       <point x="160" y="-34"/>
       <point x="177" y="-32"/>
       <point x="202" y="-25" type="curve"/>
@@ -93,7 +93,7 @@
       <point x="245" y="341" type="curve" smooth="yes"/>
       <point x="198" y="341"/>
       <point x="168" y="327"/>
-      <point x="168" y="275" type="curve" smooth="yes" name="hr04"/>
+      <point x="168" y="275" type="curve" name="hr04" smooth="yes"/>
       <point x="168" y="179"/>
       <point x="172" y="108"/>
       <point x="172" y="7" type="curve" smooth="yes"/>
@@ -128,37 +128,28 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0xMyIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iMzExIiB3aWR0aD0iMjAwIiAv
-PgogICAgICA8dnN0ZW0gcG9zPSIyMiIgd2lkdGg9
-IjE3NyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzU1
-IiB3aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+
-CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+
-CiAgICAgIDxoc3RlbSBwb3M9Ii0zMiIgd2lkdGg9
-IjI5IiAvPgogICAgICA8aHN0ZW0gcG9zPSIzMTEi
-IHdpZHRoPSIzMCIgLz4KICAgICAgPHZzdGVtIHBv
-cz0iMjIiIHdpZHRoPSIxNzciIC8+CiAgICAgIDx2
-c3RlbSBwb3M9IjM1NSIgd2lkdGg9IjMwIiAvPgog
-ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9p
-bnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9z
-PSItMTMiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
-c3RlbSBwb3M9IjMxMSIgd2lkdGg9IjMwIiAvPgog
-ICAgICA8dnN0ZW0gcG9zPSIyMiIgd2lkdGg9IjE3
-NyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzU1IiB3
-aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
-ICA8aGludHNldCBwb2ludFRhZz0iaHIwNCI+CiAg
-ICAgIDxoc3RlbSBwb3M9Ii0zMiIgd2lkdGg9IjI5
-IiAvPgogICAgICA8aHN0ZW0gcG9zPSIzMTEiIHdp
-ZHRoPSIzMCIgLz4KICAgICAgPHZzdGVtIHBvcz0i
-MTY1IiB3aWR0aD0iMzQiIC8+CiAgICAgIDx2c3Rl
-bSBwb3M9IjM1NSIgd2lkdGg9IjMwIiAvPgogICAg
-PC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0xMyIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iMzExIiB3aWR0aD0iMjAwIiAvPgogICAgICA8dnN0ZW0g
+        cG9zPSIyMiIgd2lkdGg9IjE3NyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzU1
+        IiB3aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
+        b2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBwb3M9Ii0zMiIgd2lkdGg9
+        IjI5IiAvPgogICAgICA8aHN0ZW0gcG9zPSIzMTEiIHdpZHRoPSIzMCIgLz4K
+        ICAgICAgPHZzdGVtIHBvcz0iMjIiIHdpZHRoPSIxNzciIC8+CiAgICAgIDx2
+        c3RlbSBwb3M9IjM1NSIgd2lkdGg9IjMwIiAvPgogICAgPC9oaW50c2V0Pgog
+        ICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9z
+        PSItMTMiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjMxMSIg
+        d2lkdGg9IjMwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIyMiIgd2lkdGg9IjE3
+        NyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzU1IiB3aWR0aD0iMzAiIC8+CiAg
+        ICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwNCI+CiAg
+        ICAgIDxoc3RlbSBwb3M9Ii0zMiIgd2lkdGg9IjI5IiAvPgogICAgICA8aHN0
+        ZW0gcG9zPSIzMTEiIHdpZHRoPSIzMCIgLz4KICAgICAgPHZzdGVtIHBvcz0i
+        MTY1IiB3aWR0aD0iMzQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjM1NSIgd2lk
+        dGg9IjMwIiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
   </lib>
 </glyph>

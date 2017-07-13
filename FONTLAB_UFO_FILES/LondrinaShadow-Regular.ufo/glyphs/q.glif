@@ -4,7 +4,7 @@
   <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="307" y="-223" type="line" smooth="yes" name="hr01"/>
+      <point x="307" y="-223" type="line" name="hr01" smooth="yes"/>
       <point x="307" y="-230"/>
       <point x="345" y="-238"/>
       <point x="385" y="-238" type="curve" smooth="yes"/>
@@ -52,7 +52,7 @@
       <point x="307" y="-212" type="curve"/>
     </contour>
     <contour>
-      <point x="297" y="-192" type="line" smooth="yes" name="hr02"/>
+      <point x="297" y="-192" type="line" name="hr02" smooth="yes"/>
       <point x="294" y="-139"/>
       <point x="293" y="-145"/>
       <point x="293" y="-97" type="curve" smooth="yes"/>
@@ -122,7 +122,7 @@
       <point x="171" y="168" type="line" smooth="yes"/>
       <point x="164" y="184"/>
       <point x="165" y="204"/>
-      <point x="165" y="223" type="curve" smooth="yes" name="hr03"/>
+      <point x="165" y="223" type="curve" name="hr03" smooth="yes"/>
       <point x="165" y="285"/>
       <point x="195" y="344"/>
       <point x="246" y="344" type="curve" smooth="yes"/>
@@ -138,35 +138,27 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0yMzgiIHdpZHRoPSIzMCIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iLTMyIiB3aWR0aD0iMzAiIC8+
-CiAgICAgIDxoc3RlbSBwb3M9IjM0NCIgd2lkdGg9
-IjE2NCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMSIg
-d2lkdGg9IjE1NCIgLz4KICAgICAgPHZzdGVtIHBv
-cz0iMjczIiB3aWR0aD0iMTcwIiAvPgogICAgPC9o
-aW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9
-ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSItMjM4
-IiB3aWR0aD0iMzAiIC8+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0zMiIgd2lkdGg9IjMwIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSIzNDQiIHdpZHRoPSIzMCIgLz4K
-ICAgICAgPHZzdGVtIHBvcz0iMTI1IiB3aWR0aD0i
-MTYyIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0MjAi
-IHdpZHRoPSIyMyIgLz4KICAgIDwvaGludHNldD4K
-ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAzIj4K
-ICAgICAgPGhzdGVtIHBvcz0iLTIzOCIgd2lkdGg9
-IjMwIiAvPgogICAgICA8aHN0ZW0gcG9zPSItMzIi
-IHdpZHRoPSIxNTYiIC8+CiAgICAgIDxoc3RlbSBw
-b3M9IjM0NCIgd2lkdGg9IjMwIiAvPgogICAgICA8
-dnN0ZW0gcG9zPSIxIiB3aWR0aD0iMTU0IiAvPgog
-ICAgICA8dnN0ZW0gcG9zPSIyNzMiIHdpZHRoPSIx
-NzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50
-U2V0TGlzdD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0yMzgiIHdpZHRoPSIzMCIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iLTMyIiB3aWR0aD0iMzAiIC8+CiAgICAgIDxoc3RlbSBw
+        b3M9IjM0NCIgd2lkdGg9IjE2NCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMSIg
+        d2lkdGg9IjE1NCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjczIiB3aWR0aD0i
+        MTcwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9
+        ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSItMjM4IiB3aWR0aD0iMzAiIC8+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0zMiIgd2lkdGg9IjMwIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSIzNDQiIHdpZHRoPSIzMCIgLz4KICAgICAgPHZzdGVtIHBv
+        cz0iMTI1IiB3aWR0aD0iMTYyIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0MjAi
+        IHdpZHRoPSIyMyIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
+        aW50VGFnPSJocjAzIj4KICAgICAgPGhzdGVtIHBvcz0iLTIzOCIgd2lkdGg9
+        IjMwIiAvPgogICAgICA8aHN0ZW0gcG9zPSItMzIiIHdpZHRoPSIxNTYiIC8+
+        CiAgICAgIDxoc3RlbSBwb3M9IjM0NCIgd2lkdGg9IjMwIiAvPgogICAgICA8
+        dnN0ZW0gcG9zPSIxIiB3aWR0aD0iMTU0IiAvPgogICAgICA8dnN0ZW0gcG9z
+        PSIyNzMiIHdpZHRoPSIxNzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50
+        U2V0TGlzdD4K
+      </data>
+    </dict>
   </lib>
 </glyph>

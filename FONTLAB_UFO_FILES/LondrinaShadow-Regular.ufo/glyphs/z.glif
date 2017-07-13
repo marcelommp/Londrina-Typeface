@@ -148,22 +148,18 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0yOSIgd2lkdGg9IjE4MCIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iMzMxIiB3aWR0aD0iMTc3IiAv
-PgogICAgICA8dnN0ZW0gcG9zPSI0NDMiIHdpZHRo
-PSIyNyIgLz4KICAgIDwvaGludHNldD4KICAgIDxo
-aW50c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAg
-PGhzdGVtIHBvcz0iLTI5IiB3aWR0aD0iMzAiIC8+
-CiAgICAgIDxoc3RlbSBwb3M9IjE0MSIgd2lkdGg9
-IjIyMiIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDQz
-IiB3aWR0aD0iMjciIC8+CiAgICA8L2hpbnRzZXQ+
-CiAgPC9oaW50U2V0TGlzdD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0yOSIgd2lkdGg9IjE4MCIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iMzMxIiB3aWR0aD0iMTc3IiAvPgogICAgICA8dnN0ZW0g
+        cG9zPSI0NDMiIHdpZHRoPSIyNyIgLz4KICAgIDwvaGludHNldD4KICAgIDxo
+        aW50c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iLTI5
+        IiB3aWR0aD0iMzAiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjE0MSIgd2lkdGg9
+        IjIyMiIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDQzIiB3aWR0aD0iMjciIC8+
+        CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
   </lib>
 </glyph>

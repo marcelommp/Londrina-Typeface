@@ -47,7 +47,7 @@
       <point x="118" y="524" type="curve"/>
       <point x="110" y="523"/>
       <point x="105" y="522"/>
-      <point x="100" y="522" type="curve" smooth="yes" name="hr03"/>
+      <point x="100" y="522" type="curve" name="hr03" smooth="yes"/>
       <point x="87" y="522"/>
       <point x="70" y="523"/>
       <point x="11" y="528" type="curve"/>
@@ -57,24 +57,19 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9IjQ5OSIgd2lkdGg9IjIzIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI3MDUiIHdpZHRoPSItMjAiIC8+
-CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBw
-b3M9IjUyNCIgd2lkdGg9Ii0yMCIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iNzA1IiB3aWR0aD0iLTIwIiAv
-PgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQg
-cG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0g
-cG9zPSI0OTkiIHdpZHRoPSIyMyIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iNzA1IiB3aWR0aD0iLTIwIiAv
-PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
-c3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9IjQ5OSIgd2lkdGg9IjIzIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI3MDUiIHdpZHRoPSItMjAiIC8+CiAgICA8L2hpbnRzZXQ+
+        CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBw
+        b3M9IjUyNCIgd2lkdGg9Ii0yMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNzA1
+        IiB3aWR0aD0iLTIwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQg
+        cG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9zPSI0OTkiIHdpZHRo
+        PSIyMyIgLz4KICAgICAgPGhzdGVtIHBvcz0iNzA1IiB3aWR0aD0iLTIwIiAv
+        PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
   </lib>
 </glyph>

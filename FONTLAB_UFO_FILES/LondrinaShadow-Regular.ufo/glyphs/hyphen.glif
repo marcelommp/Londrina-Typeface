@@ -42,20 +42,17 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9IjE2NSIgd2lkdGg9IjIwNyIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iNDc1IiB3aWR0aD0iMzAiIC8+
-CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBw
-b3M9IjE2NSIgd2lkdGg9IjMwIiAvPgogICAgICA8
-dnN0ZW0gcG9zPSI0NzUiIHdpZHRoPSIzMCIgLz4K
-ICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0
-Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9IjE2NSIgd2lkdGg9IjIwNyIgLz4KICAgICAg
+        PHZzdGVtIHBvcz0iNDc1IiB3aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+
+        CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBw
+        b3M9IjE2NSIgd2lkdGg9IjMwIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0NzUi
+        IHdpZHRoPSIzMCIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0
+        Pgo=
+      </data>
+    </dict>
   </lib>
 </glyph>

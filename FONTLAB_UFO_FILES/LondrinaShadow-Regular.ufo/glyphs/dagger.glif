@@ -43,7 +43,7 @@
       <point x="182" y="703" type="curve"/>
       <point x="172" y="706"/>
       <point x="160" y="707"/>
-      <point x="147" y="707" type="curve" smooth="yes" name="hr02"/>
+      <point x="147" y="707" type="curve" name="hr02" smooth="yes"/>
       <point x="128" y="707"/>
       <point x="109" y="704"/>
       <point x="97" y="700" type="curve"/>
@@ -94,7 +94,7 @@
       <point x="106" y="239" type="curve"/>
       <point x="103" y="262"/>
       <point x="102" y="296"/>
-      <point x="102" y="335" type="curve" smooth="yes" name="hr05"/>
+      <point x="102" y="335" type="curve" name="hr05" smooth="yes"/>
       <point x="102" y="374"/>
       <point x="103" y="415"/>
       <point x="103" y="451" type="curve" smooth="yes"/>
@@ -160,45 +160,34 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9IjIyOCIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iNDc2IiB3aWR0aD0iMTE3IiAv
-PgogICAgICA8dnN0ZW0gcG9zPSI4MiIgd2lkdGg9
-IjEwNiIgLz4KICAgIDwvaGludHNldD4KICAgIDxo
-aW50c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAg
-PGhzdGVtIHBvcz0iMjI4IiB3aWR0aD0iLTIxIiAv
-PgogICAgICA8aHN0ZW0gcG9zPSI0NzYiIHdpZHRo
-PSIyNCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTgy
-IiB3aWR0aD0iMTI1IiAvPgogICAgICA8dnN0ZW0g
-cG9zPSI4MiIgd2lkdGg9IjEwNiIgLz4KICAgIDwv
-aGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFn
-PSJocjAzIj4KICAgICAgPGhzdGVtIHBvcz0iMjI4
-IiB3aWR0aD0iLTIxIiAvPgogICAgICA8aHN0ZW0g
-cG9zPSI0NzYiIHdpZHRoPSIyNCIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iNTgyIiB3aWR0aD0iMTI1IiAv
-PgogICAgICA8dnN0ZW0gcG9zPSItMSIgd2lkdGg9
-IjkzIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNTki
-IHdpZHRoPSIyOSIgLz4KICAgIDwvaGludHNldD4K
-ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA0Ij4K
-ICAgICAgPGhzdGVtIHBvcz0iMjI4IiB3aWR0aD0i
-LTIxIiAvPgogICAgICA8aHN0ZW0gcG9zPSI0NzYi
-IHdpZHRoPSIyNCIgLz4KICAgICAgPGhzdGVtIHBv
-cz0iNTgyIiB3aWR0aD0iMTI1IiAvPgogICAgICA8
-dnN0ZW0gcG9zPSI4MiIgd2lkdGg9IjEwNiIgLz4K
-ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
-aW50VGFnPSJocjA1Ij4KICAgICAgPGhzdGVtIHBv
-cz0iMjI4IiB3aWR0aD0iLTIxIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI0NzYiIHdpZHRoPSIyNCIgLz4K
-ICAgICAgPGhzdGVtIHBvcz0iNTgyIiB3aWR0aD0i
-MTI1IiAvPgogICAgICA8dnN0ZW0gcG9zPSItMSIg
-d2lkdGg9IjkzIiAvPgogICAgICA8dnN0ZW0gcG9z
-PSIxNTkiIHdpZHRoPSIyOSIgLz4KICAgIDwvaGlu
-dHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9IjIyOCIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iNDc2IiB3aWR0aD0iMTE3IiAvPgogICAgICA8dnN0ZW0g
+        cG9zPSI4MiIgd2lkdGg9IjEwNiIgLz4KICAgIDwvaGludHNldD4KICAgIDxo
+        aW50c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iMjI4
+        IiB3aWR0aD0iLTIxIiAvPgogICAgICA8aHN0ZW0gcG9zPSI0NzYiIHdpZHRo
+        PSIyNCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTgyIiB3aWR0aD0iMTI1IiAv
+        PgogICAgICA8dnN0ZW0gcG9zPSI4MiIgd2lkdGg9IjEwNiIgLz4KICAgIDwv
+        aGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAzIj4KICAgICAg
+        PGhzdGVtIHBvcz0iMjI4IiB3aWR0aD0iLTIxIiAvPgogICAgICA8aHN0ZW0g
+        cG9zPSI0NzYiIHdpZHRoPSIyNCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTgy
+        IiB3aWR0aD0iMTI1IiAvPgogICAgICA8dnN0ZW0gcG9zPSItMSIgd2lkdGg9
+        IjkzIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNTkiIHdpZHRoPSIyOSIgLz4K
+        ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA0Ij4K
+        ICAgICAgPGhzdGVtIHBvcz0iMjI4IiB3aWR0aD0iLTIxIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI0NzYiIHdpZHRoPSIyNCIgLz4KICAgICAgPGhzdGVtIHBv
+        cz0iNTgyIiB3aWR0aD0iMTI1IiAvPgogICAgICA8dnN0ZW0gcG9zPSI4MiIg
+        d2lkdGg9IjEwNiIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
+        aW50VGFnPSJocjA1Ij4KICAgICAgPGhzdGVtIHBvcz0iMjI4IiB3aWR0aD0i
+        LTIxIiAvPgogICAgICA8aHN0ZW0gcG9zPSI0NzYiIHdpZHRoPSIyNCIgLz4K
+        ICAgICAgPGhzdGVtIHBvcz0iNTgyIiB3aWR0aD0iMTI1IiAvPgogICAgICA8
+        dnN0ZW0gcG9zPSItMSIgd2lkdGg9IjkzIiAvPgogICAgICA8dnN0ZW0gcG9z
+        PSIxNTkiIHdpZHRoPSIyOSIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRT
+        ZXRMaXN0Pgo=
+      </data>
+    </dict>
   </lib>
 </glyph>

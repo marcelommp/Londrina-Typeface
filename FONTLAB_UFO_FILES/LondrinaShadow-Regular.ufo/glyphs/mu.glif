@@ -72,7 +72,7 @@
       <point x="50" y="-198" type="line"/>
       <point x="62" y="-194"/>
       <point x="74" y="-193"/>
-      <point x="87" y="-193" type="curve" smooth="yes" name="hr02"/>
+      <point x="87" y="-193" type="curve" name="hr02" smooth="yes"/>
       <point x="94" y="-193"/>
       <point x="102" y="-194"/>
       <point x="110" y="-194" type="curve"/>
@@ -169,27 +169,22 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0xNzciIHdpZHRoPSItMjEiIC8+CiAgICAg
-IDxoc3RlbSBwb3M9Ii0zNCIgd2lkdGg9IjIwOCIg
-Lz4KICAgICAgPGhzdGVtIHBvcz0iNTE0IiB3aWR0
-aD0iLTIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIy
-MSIgd2lkdGg9IjE3MiIgLz4KICAgICAgPHZzdGVt
-IHBvcz0iMjc0IiB3aWR0aD0iMTczIiAvPgogICAg
-PC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRU
-YWc9ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSIt
-MTkzIiB3aWR0aD0iMjgiIC8+CiAgICAgIDxoc3Rl
-bSBwb3M9Ii0zNCIgd2lkdGg9IjMwIiAvPgogICAg
-ICA8aHN0ZW0gcG9zPSI1MTQiIHdpZHRoPSItMjAi
-IC8+CiAgICAgIDx2c3RlbSBwb3M9IjE2OSIgd2lk
-dGg9IjEyMSIgLz4KICAgICAgPHZzdGVtIHBvcz0i
-NDE3IiB3aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRz
-ZXQ+CiAgPC9oaW50U2V0TGlzdD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0xNzciIHdpZHRoPSItMjEiIC8+CiAgICAg
+        IDxoc3RlbSBwb3M9Ii0zNCIgd2lkdGg9IjIwOCIgLz4KICAgICAgPGhzdGVt
+        IHBvcz0iNTE0IiB3aWR0aD0iLTIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIy
+        MSIgd2lkdGg9IjE3MiIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjc0IiB3aWR0
+        aD0iMTczIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRU
+        YWc9ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSItMTkzIiB3aWR0aD0iMjgi
+        IC8+CiAgICAgIDxoc3RlbSBwb3M9Ii0zNCIgd2lkdGg9IjMwIiAvPgogICAg
+        ICA8aHN0ZW0gcG9zPSI1MTQiIHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3Rl
+        bSBwb3M9IjE2OSIgd2lkdGg9IjEyMSIgLz4KICAgICAgPHZzdGVtIHBvcz0i
+        NDE3IiB3aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0
+        TGlzdD4K
+      </data>
+    </dict>
   </lib>
 </glyph>

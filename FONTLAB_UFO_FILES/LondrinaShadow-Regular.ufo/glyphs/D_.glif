@@ -143,7 +143,7 @@
       <point x="212" y="223" type="line"/>
       <point x="212" y="228"/>
       <point x="211" y="234"/>
-      <point x="211" y="239" type="curve" smooth="yes" name="hr03"/>
+      <point x="211" y="239" type="curve" name="hr03" smooth="yes"/>
       <point x="211" y="290"/>
       <point x="214" y="342"/>
       <point x="214" y="393" type="curve" smooth="yes"/>
@@ -166,31 +166,24 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii04IiB3aWR0aD0iLTIxIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI3MTIiIHdpZHRoPSItMjAiIC8+
-CiAgICAgIDx2c3RlbSBwb3M9IjMwIiB3aWR0aD0i
-MTgwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMTgi
-IHdpZHRoPSIxNzMiIC8+CiAgICA8L2hpbnRzZXQ+
-CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+
-CiAgICAgIDxoc3RlbSBwb3M9Ii0yNSIgd2lkdGg9
-IjMwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI3MTIi
-IHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3RlbSBw
-b3M9IjE4MyIgd2lkdGg9IjE0NSIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iNDYxIiB3aWR0aD0iMzAiIC8+
-CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMyI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0yNSIgd2lkdGg9IjMwIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI3MTIiIHdpZHRoPSItMjAiIC8+
-CiAgICAgIDx2c3RlbSBwb3M9IjMwIiB3aWR0aD0i
-MTgwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMTgi
-IHdpZHRoPSIxNzMiIC8+CiAgICA8L2hpbnRzZXQ+
-CiAgPC9oaW50U2V0TGlzdD4K
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii04IiB3aWR0aD0iLTIxIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI3MTIiIHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3RlbSBw
+        b3M9IjMwIiB3aWR0aD0iMTgwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMTgi
+        IHdpZHRoPSIxNzMiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
+        b2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBwb3M9Ii0yNSIgd2lkdGg9
+        IjMwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI3MTIiIHdpZHRoPSItMjAiIC8+
+        CiAgICAgIDx2c3RlbSBwb3M9IjE4MyIgd2lkdGg9IjE0NSIgLz4KICAgICAg
+        PHZzdGVtIHBvcz0iNDYxIiB3aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+
+        CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMyI+CiAgICAgIDxoc3RlbSBw
+        b3M9Ii0yNSIgd2lkdGg9IjMwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI3MTIi
+        IHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjMwIiB3aWR0aD0i
+        MTgwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMTgiIHdpZHRoPSIxNzMiIC8+
+        CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+      </data>
+    </dict>
   </lib>
 </glyph>

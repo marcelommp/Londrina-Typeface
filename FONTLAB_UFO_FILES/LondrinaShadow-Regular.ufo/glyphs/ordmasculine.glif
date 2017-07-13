@@ -4,7 +4,7 @@
   <unicode hex="00BA"/>
   <outline>
     <contour>
-      <point x="146" y="500" type="curve" smooth="yes" name="hr01"/>
+      <point x="146" y="500" type="curve" name="hr01" smooth="yes"/>
       <point x="146" y="489"/>
       <point x="146" y="481"/>
       <point x="145" y="472" type="curve" smooth="yes"/>
@@ -65,7 +65,7 @@
       <point x="125" y="405" type="curve" smooth="yes"/>
       <point x="160" y="405"/>
       <point x="156" y="465"/>
-      <point x="156" y="500" type="curve" smooth="yes" name="hr02"/>
+      <point x="156" y="500" type="curve" name="hr02" smooth="yes"/>
       <point x="156" y="536"/>
       <point x="150" y="577"/>
       <point x="126" y="577" type="curve" smooth="yes"/>
@@ -96,27 +96,22 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9IjMwNSIgd2lkdGg9IjMwIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI0MDUiIHdpZHRoPSIxNzIiIC8+
-CiAgICAgIDxoc3RlbSBwb3M9IjY1NyIgd2lkdGg9
-Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTYi
-IHdpZHRoPSIxMDYiIC8+CiAgICAgIDx2c3RlbSBw
-b3M9IjIyOCIgd2lkdGg9IjMwIiAvPgogICAgPC9o
-aW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9
-ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSIzMDUi
-IHdpZHRoPSIzMCIgLz4KICAgICAgPGhzdGVtIHBv
-cz0iNDA1IiB3aWR0aD0iMTcyIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI2NTciIHdpZHRoPSItMjAiIC8+
-CiAgICAgIDx2c3RlbSBwb3M9IjkyIiB3aWR0aD0i
-NjQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIyOCIg
-d2lkdGg9IjMwIiAvPgogICAgPC9oaW50c2V0Pgog
-IDwvaGludFNldExpc3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9IjMwNSIgd2lkdGg9IjMwIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI0MDUiIHdpZHRoPSIxNzIiIC8+CiAgICAgIDxoc3RlbSBw
+        b3M9IjY1NyIgd2lkdGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTYi
+        IHdpZHRoPSIxMDYiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIyOCIgd2lkdGg9
+        IjMwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9
+        ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSIzMDUiIHdpZHRoPSIzMCIgLz4K
+        ICAgICAgPGhzdGVtIHBvcz0iNDA1IiB3aWR0aD0iMTcyIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI2NTciIHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3RlbSBw
+        b3M9IjkyIiB3aWR0aD0iNjQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIyOCIg
+        d2lkdGg9IjMwIiAvPgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+
+        Cg==
+      </data>
+    </dict>
   </lib>
 </glyph>

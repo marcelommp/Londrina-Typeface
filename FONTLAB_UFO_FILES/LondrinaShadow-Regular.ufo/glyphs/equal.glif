@@ -79,32 +79,25 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ijg5IiB3aWR0aD0iMTc3IiAvPgogICAgICA8
-aHN0ZW0gcG9zPSIyOTYiIHdpZHRoPSIxNzciIC8+
-CiAgICAgIDx2c3RlbSBwb3M9IjQxMiIgd2lkdGg9
-IjI5IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhp
-bnRzZXQgcG9pbnRUYWc9ImhyMDIiPgogICAgICA8
-aHN0ZW0gcG9zPSIxMDQiIHdpZHRoPSItMjEiIC8+
-CiAgICAgIDxoc3RlbSBwb3M9IjI1NiIgd2lkdGg9
-IjY0IiAvPgogICAgICA8dnN0ZW0gcG9zPSI0MTIi
-IHdpZHRoPSIyOSIgLz4KICAgIDwvaGludHNldD4K
-ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAzIj4K
-ICAgICAgPGhzdGVtIHBvcz0iODkiIHdpZHRoPSIx
-NzciIC8+CiAgICAgIDxoc3RlbSBwb3M9IjI5NiIg
-d2lkdGg9IjI0IiAvPgogICAgICA8dnN0ZW0gcG9z
-PSI0MTIiIHdpZHRoPSIyOSIgLz4KICAgIDwvaGlu
-dHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJo
-cjA0Ij4KICAgICAgPGhzdGVtIHBvcz0iODkiIHdp
-ZHRoPSIyNCIgLz4KICAgICAgPGhzdGVtIHBvcz0i
-MjU2IiB3aWR0aD0iNjQiIC8+CiAgICAgIDx2c3Rl
-bSBwb3M9IjQxMiIgd2lkdGg9IjI5IiAvPgogICAg
-PC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ijg5IiB3aWR0aD0iMTc3IiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSIyOTYiIHdpZHRoPSIxNzciIC8+CiAgICAgIDx2c3RlbSBw
+        b3M9IjQxMiIgd2lkdGg9IjI5IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhp
+        bnRzZXQgcG9pbnRUYWc9ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSIxMDQi
+        IHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjI1NiIgd2lkdGg9
+        IjY0IiAvPgogICAgICA8dnN0ZW0gcG9zPSI0MTIiIHdpZHRoPSIyOSIgLz4K
+        ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAzIj4K
+        ICAgICAgPGhzdGVtIHBvcz0iODkiIHdpZHRoPSIxNzciIC8+CiAgICAgIDxo
+        c3RlbSBwb3M9IjI5NiIgd2lkdGg9IjI0IiAvPgogICAgICA8dnN0ZW0gcG9z
+        PSI0MTIiIHdpZHRoPSIyOSIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50
+        c2V0IHBvaW50VGFnPSJocjA0Ij4KICAgICAgPGhzdGVtIHBvcz0iODkiIHdp
+        ZHRoPSIyNCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMjU2IiB3aWR0aD0iNjQi
+        IC8+CiAgICAgIDx2c3RlbSBwb3M9IjQxMiIgd2lkdGg9IjI5IiAvPgogICAg
+        PC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
   </lib>
 </glyph>

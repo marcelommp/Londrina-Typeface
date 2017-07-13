@@ -16,13 +16,13 @@
       <point x="179" y="736" type="line" smooth="yes"/>
       <point x="172" y="736"/>
       <point x="167" y="738"/>
-      <point x="162" y="738" type="curve" smooth="yes" name="hr02"/>
+      <point x="162" y="738" type="curve" name="hr02" smooth="yes"/>
       <point x="157" y="738"/>
       <point x="154" y="737"/>
       <point x="154" y="726" type="curve"/>
       <point x="142" y="733"/>
       <point x="126" y="733"/>
-      <point x="110" y="733" type="curve" smooth="yes" name="hr03"/>
+      <point x="110" y="733" type="curve" name="hr03" smooth="yes"/>
       <point x="55" y="733"/>
       <point x="15" y="680"/>
       <point x="15" y="605" type="curve" smooth="yes"/>
@@ -65,7 +65,7 @@
       <point x="239" y="723" type="curve"/>
       <point x="239" y="719"/>
       <point x="241" y="715"/>
-      <point x="241" y="711" type="curve" smooth="yes" name="hr05"/>
+      <point x="241" y="711" type="curve" name="hr05" smooth="yes"/>
       <point x="241" y="707" type="line" smooth="yes"/>
       <point x="240" y="690"/>
       <point x="240" y="674"/>
@@ -149,51 +149,37 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9IjQzOCIgd2lkdGg9IjMyIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI1MzkiIHdpZHRoPSIxOTQiIC8+
-CiAgICAgIDx2c3RlbSBwb3M9IjE0IiB3aWR0aD0i
-MTQ5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyNDAi
-IHdpZHRoPSIzMCIgLz4KICAgIDwvaGludHNldD4K
-ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAyIj4K
-ICAgICAgPGhzdGVtIHBvcz0iNDM4IiB3aWR0aD0i
-MzIiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjUzOSIg
-d2lkdGg9IjExNSIgLz4KICAgICAgPGhzdGVtIHBv
-cz0iNzM4IiB3aWR0aD0iLTIwIiAvPgogICAgICA8
-dnN0ZW0gcG9zPSIxNTMiIHdpZHRoPSIxMTciIC8+
-CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMyI+CiAgICAgIDxoc3RlbSBw
-b3M9IjQzOCIgd2lkdGg9IjMyIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSI1MzkiIHdpZHRoPSIxOTQiIC8+
-CiAgICAgIDx2c3RlbSBwb3M9IjE0IiB3aWR0aD0i
-MTQ5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyNDAi
-IHdpZHRoPSIzMCIgLz4KICAgIDwvaGludHNldD4K
-ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA0Ij4K
-ICAgICAgPGhzdGVtIHBvcz0iNDYwIiB3aWR0aD0i
-LTIxIiAvPgogICAgICA8aHN0ZW0gcG9zPSI1Mzki
-IHdpZHRoPSIxMTUiIC8+CiAgICAgIDxoc3RlbSBw
-b3M9IjczOCIgd2lkdGg9Ii0yMCIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iMTUzIiB3aWR0aD0iMTE3IiAv
-PgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQg
-cG9pbnRUYWc9ImhyMDUiPgogICAgICA8aHN0ZW0g
-cG9zPSI0MzgiIHdpZHRoPSIzMiIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iNTM5IiB3aWR0aD0iMTE1IiAv
-PgogICAgICA8aHN0ZW0gcG9zPSI3MzgiIHdpZHRo
-PSItMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE0
-IiB3aWR0aD0iMTQ5IiAvPgogICAgICA8dnN0ZW0g
-cG9zPSIyNDAiIHdpZHRoPSIzMCIgLz4KICAgIDwv
-aGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFn
-PSJocjA2Ij4KICAgICAgPGhzdGVtIHBvcz0iNDM4
-IiB3aWR0aD0iMTExIiAvPgogICAgICA8aHN0ZW0g
-cG9zPSI3MzgiIHdpZHRoPSItMjAiIC8+CiAgICAg
-IDx2c3RlbSBwb3M9IjE1MyIgd2lkdGg9IjExNyIg
-Lz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRM
-aXN0Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9IjQzOCIgd2lkdGg9IjMyIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI1MzkiIHdpZHRoPSIxOTQiIC8+CiAgICAgIDx2c3RlbSBw
+        b3M9IjE0IiB3aWR0aD0iMTQ5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyNDAi
+        IHdpZHRoPSIzMCIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
+        aW50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBvcz0iNDM4IiB3aWR0aD0i
+        MzIiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjUzOSIgd2lkdGg9IjExNSIgLz4K
+        ICAgICAgPGhzdGVtIHBvcz0iNzM4IiB3aWR0aD0iLTIwIiAvPgogICAgICA8
+        dnN0ZW0gcG9zPSIxNTMiIHdpZHRoPSIxMTciIC8+CiAgICA8L2hpbnRzZXQ+
+        CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMyI+CiAgICAgIDxoc3RlbSBw
+        b3M9IjQzOCIgd2lkdGg9IjMyIiAvPgogICAgICA8aHN0ZW0gcG9zPSI1Mzki
+        IHdpZHRoPSIxOTQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE0IiB3aWR0aD0i
+        MTQ5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIyNDAiIHdpZHRoPSIzMCIgLz4K
+        ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA0Ij4K
+        ICAgICAgPGhzdGVtIHBvcz0iNDYwIiB3aWR0aD0iLTIxIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI1MzkiIHdpZHRoPSIxMTUiIC8+CiAgICAgIDxoc3RlbSBw
+        b3M9IjczOCIgd2lkdGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTUz
+        IiB3aWR0aD0iMTE3IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQg
+        cG9pbnRUYWc9ImhyMDUiPgogICAgICA8aHN0ZW0gcG9zPSI0MzgiIHdpZHRo
+        PSIzMiIgLz4KICAgICAgPGhzdGVtIHBvcz0iNTM5IiB3aWR0aD0iMTE1IiAv
+        PgogICAgICA8aHN0ZW0gcG9zPSI3MzgiIHdpZHRoPSItMjAiIC8+CiAgICAg
+        IDx2c3RlbSBwb3M9IjE0IiB3aWR0aD0iMTQ5IiAvPgogICAgICA8dnN0ZW0g
+        cG9zPSIyNDAiIHdpZHRoPSIzMCIgLz4KICAgIDwvaGludHNldD4KICAgIDxo
+        aW50c2V0IHBvaW50VGFnPSJocjA2Ij4KICAgICAgPGhzdGVtIHBvcz0iNDM4
+        IiB3aWR0aD0iMTExIiAvPgogICAgICA8aHN0ZW0gcG9zPSI3MzgiIHdpZHRo
+        PSItMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE1MyIgd2lkdGg9IjExNyIg
+        Lz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
   </lib>
 </glyph>

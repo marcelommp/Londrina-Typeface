@@ -1,4 +1,5 @@
-feature kern { # Kerning
+feature kern {
+ # Kerning
 
 @_KERN_s = [ s scaron ];
 @_KERN_y = [ y yacute ydieresis ];
@@ -1261,27 +1262,5 @@ lookup kern0 {
     pos [ seven ] @_KERN_period_2ND -68 ;
     pos [ braceleft ] @_KERN_y -12 ;
 } kern0;
-
 } kern;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

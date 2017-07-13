@@ -32,7 +32,7 @@
       <point x="184" y="430" type="curve"/>
       <point x="198" y="428"/>
       <point x="214" y="427"/>
-      <point x="233" y="427" type="curve" smooth="yes" name="hr03"/>
+      <point x="233" y="427" type="curve" name="hr03" smooth="yes"/>
       <point x="248" y="427"/>
       <point x="261" y="427"/>
       <point x="272" y="428" type="curve" name="hr04"/>
@@ -122,28 +122,22 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9IjQ0OCIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iNzE4IiB3aWR0aD0iLTIwIiAv
-PgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQg
-cG9pbnRUYWc9ImhyMDIiPgogICAgICA8aHN0ZW0g
-cG9zPSI0MjgiIHdpZHRoPSIzMCIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iNzE4IiB3aWR0aD0iLTIwIiAv
-PgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQg
-cG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0g
-cG9zPSI0NDgiIHdpZHRoPSItMjEiIC8+CiAgICAg
-IDxoc3RlbSBwb3M9IjcxOCIgd2lkdGg9Ii0yMCIg
-Lz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0
-IHBvaW50VGFnPSJocjA0Ij4KICAgICAgPGhzdGVt
-IHBvcz0iNDI4IiB3aWR0aD0iMzAiIC8+CiAgICAg
-IDxoc3RlbSBwb3M9IjcxOCIgd2lkdGg9Ii0yMCIg
-Lz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRM
-aXN0Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9IjQ0OCIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iNzE4IiB3aWR0aD0iLTIwIiAvPgogICAgPC9oaW50c2V0
+        PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDIiPgogICAgICA8aHN0ZW0g
+        cG9zPSI0MjgiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNzE4
+        IiB3aWR0aD0iLTIwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQg
+        cG9pbnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9zPSI0NDgiIHdpZHRo
+        PSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjcxOCIgd2lkdGg9Ii0yMCIg
+        Lz4KICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA0
+        Ij4KICAgICAgPGhzdGVtIHBvcz0iNDI4IiB3aWR0aD0iMzAiIC8+CiAgICAg
+        IDxoc3RlbSBwb3M9IjcxOCIgd2lkdGg9Ii0yMCIgLz4KICAgIDwvaGludHNl
+        dD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
   </lib>
 </glyph>

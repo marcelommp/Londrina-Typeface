@@ -21,7 +21,7 @@
       <point x="235" y="149" type="curve" smooth="yes"/>
       <point x="198" y="149"/>
       <point x="199" y="172"/>
-      <point x="199" y="192" type="curve" smooth="yes" name="hr02"/>
+      <point x="199" y="192" type="curve" name="hr02" smooth="yes"/>
       <point x="199" y="235"/>
       <point x="215" y="258"/>
       <point x="242" y="258" type="curve" smooth="yes"/>
@@ -80,13 +80,13 @@
       <point x="234" y="741" type="curve" smooth="yes"/>
       <point x="133" y="741"/>
       <point x="31" y="671"/>
-      <point x="31" y="580" type="curve" smooth="yes" name="hr03"/>
+      <point x="31" y="580" type="curve" name="hr03" smooth="yes"/>
       <point x="31" y="519"/>
       <point x="72" y="454"/>
       <point x="104" y="411" type="curve"/>
       <point x="54" y="364"/>
       <point x="8" y="289"/>
-      <point x="8" y="220" type="curve" smooth="yes" name="hr04"/>
+      <point x="8" y="220" type="curve" name="hr04" smooth="yes"/>
       <point x="8" y="99"/>
       <point x="97" y="-31"/>
       <point x="239" y="-31" type="curve"/>
@@ -105,7 +105,7 @@
       <point x="262" y="142" type="curve"/>
       <point x="293" y="152"/>
       <point x="292" y="158"/>
-      <point x="292" y="208" type="curve" smooth="yes" name="hr05"/>
+      <point x="292" y="208" type="curve" name="hr05" smooth="yes"/>
       <point x="292" y="246"/>
       <point x="281" y="288"/>
       <point x="226" y="288" type="curve" smooth="yes"/>
@@ -122,7 +122,7 @@
       <point x="234" y="618" type="curve" smooth="yes"/>
       <point x="205" y="618"/>
       <point x="191" y="604"/>
-      <point x="191" y="577" type="curve" smooth="yes" name="hr06"/>
+      <point x="191" y="577" type="curve" name="hr06" smooth="yes"/>
       <point x="191" y="549"/>
       <point x="209" y="502"/>
       <point x="222" y="502" type="curve"/>
@@ -162,7 +162,7 @@
       <point x="406" y="579" type="curve" smooth="yes"/>
       <point x="406" y="501"/>
       <point x="322" y="428"/>
-      <point x="322" y="394" type="curve" smooth="yes" name="hr07"/>
+      <point x="322" y="394" type="curve" name="hr07" smooth="yes"/>
       <point x="322" y="379"/>
       <point x="326" y="351"/>
       <point x="365" y="302" type="curve"/>
@@ -194,75 +194,53 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0zMSIgd2lkdGg9IjE4MCIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iMjU4IiB3aWR0aD0iMzAiIC8+
-CiAgICAgIDxoc3RlbSBwb3M9Ijc0MSIgd2lkdGg9
-Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzci
-IHdpZHRoPSIxOTAiIC8+CiAgICAgIDx2c3RlbSBw
-b3M9IjMyOCIgd2lkdGg9IjExNCIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iNTQ3IiB3aWR0aD0iMzAiIC8+
-CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0zMSIgd2lkdGg9IjMwIiAvPgogICAgICA8
-aHN0ZW0gcG9zPSIyNTgiIHdpZHRoPSIzMCIgLz4K
-ICAgICAgPGhzdGVtIHBvcz0iNzQxIiB3aWR0aD0i
-LTIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNCIg
-d2lkdGg9IjE5MSIgLz4KICAgICAgPHZzdGVtIHBv
-cz0iNDEyIiB3aWR0aD0iMzAiIC8+CiAgICAgIDx2
-c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
-ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9p
-bnRUYWc9ImhyMDMiPgogICAgICA8aHN0ZW0gcG9z
-PSItMzEiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhz
-dGVtIHBvcz0iMTM5IiB3aWR0aD0iMTQ5IiAvPgog
-ICAgICA8aHN0ZW0gcG9zPSI3NDEiIHdpZHRoPSIt
-MjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjM3IiB3
-aWR0aD0iMTkwIiAvPgogICAgICA8dnN0ZW0gcG9z
-PSIzMjgiIHdpZHRoPSIxMTQiIC8+CiAgICAgIDx2
-c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
-ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9p
-bnRUYWc9ImhyMDQiPgogICAgICA8aHN0ZW0gcG9z
-PSItMzEiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhz
-dGVtIHBvcz0iMTM5IiB3aWR0aD0iMTQ5IiAvPgog
-ICAgICA8aHN0ZW0gcG9zPSI3NDEiIHdpZHRoPSIt
-MjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE0IiB3
-aWR0aD0iMTkxIiAvPgogICAgICA8dnN0ZW0gcG9z
-PSIzMjgiIHdpZHRoPSIxMTQiIC8+CiAgICAgIDx2
-c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
-ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9p
-bnRUYWc9ImhyMDUiPgogICAgICA8aHN0ZW0gcG9z
-PSItMzEiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhz
-dGVtIHBvcz0iMTM5IiB3aWR0aD0iMTQ5IiAvPgog
-ICAgICA8aHN0ZW0gcG9zPSI3NDEiIHdpZHRoPSIt
-MjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE3NSIg
-d2lkdGg9IjEyMyIgLz4KICAgICAgPHZzdGVtIHBv
-cz0iMzI4IiB3aWR0aD0iMTE0IiAvPgogICAgICA8
-dnN0ZW0gcG9zPSI1NDciIHdpZHRoPSIzMCIgLz4K
-ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
-aW50VGFnPSJocjA2Ij4KICAgICAgPGhzdGVtIHBv
-cz0iLTMxIiB3aWR0aD0iMzAiIC8+CiAgICAgIDxo
-c3RlbSBwb3M9IjEzOSIgd2lkdGg9IjE0OSIgLz4K
-ICAgICAgPGhzdGVtIHBvcz0iNzQxIiB3aWR0aD0i
-LTIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxOTci
-IHdpZHRoPSI2MyIgLz4KICAgICAgPHZzdGVtIHBv
-cz0iNDEyIiB3aWR0aD0iMzAiIC8+CiAgICAgIDx2
-c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
-ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9p
-bnRUYWc9ImhyMDciPgogICAgICA8aHN0ZW0gcG9z
-PSItMzEiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhz
-dGVtIHBvcz0iMTM5IiB3aWR0aD0iMTQ5IiAvPgog
-ICAgICA8aHN0ZW0gcG9zPSI3NDEiIHdpZHRoPSIt
-MjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE0IiB3
-aWR0aD0iMTkxIiAvPgogICAgICA8dnN0ZW0gcG9z
-PSIzMjgiIHdpZHRoPSIxMTQiIC8+CiAgICAgIDx2
-c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
-ICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+
-Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0zMSIgd2lkdGg9IjE4MCIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iMjU4IiB3aWR0aD0iMzAiIC8+CiAgICAgIDxoc3RlbSBw
+        b3M9Ijc0MSIgd2lkdGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzci
+        IHdpZHRoPSIxOTAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjMyOCIgd2lkdGg9
+        IjExNCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNTQ3IiB3aWR0aD0iMzAiIC8+
+        CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0zMSIgd2lkdGg9IjMwIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSIyNTgiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhzdGVtIHBv
+        cz0iNzQxIiB3aWR0aD0iLTIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxNCIg
+        d2lkdGg9IjE5MSIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDEyIiB3aWR0aD0i
+        MzAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
+        ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgog
+        ICAgICA8aHN0ZW0gcG9zPSItMzEiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhz
+        dGVtIHBvcz0iMTM5IiB3aWR0aD0iMTQ5IiAvPgogICAgICA8aHN0ZW0gcG9z
+        PSI3NDEiIHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjM3IiB3
+        aWR0aD0iMTkwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMjgiIHdpZHRoPSIx
+        MTQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
+        ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDQiPgog
+        ICAgICA8aHN0ZW0gcG9zPSItMzEiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhz
+        dGVtIHBvcz0iMTM5IiB3aWR0aD0iMTQ5IiAvPgogICAgICA8aHN0ZW0gcG9z
+        PSI3NDEiIHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE0IiB3
+        aWR0aD0iMTkxIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMjgiIHdpZHRoPSIx
+        MTQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
+        ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDUiPgog
+        ICAgICA8aHN0ZW0gcG9zPSItMzEiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhz
+        dGVtIHBvcz0iMTM5IiB3aWR0aD0iMTQ5IiAvPgogICAgICA8aHN0ZW0gcG9z
+        PSI3NDEiIHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE3NSIg
+        d2lkdGg9IjEyMyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMzI4IiB3aWR0aD0i
+        MTE0IiAvPgogICAgICA8dnN0ZW0gcG9zPSI1NDciIHdpZHRoPSIzMCIgLz4K
+        ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA2Ij4K
+        ICAgICAgPGhzdGVtIHBvcz0iLTMxIiB3aWR0aD0iMzAiIC8+CiAgICAgIDxo
+        c3RlbSBwb3M9IjEzOSIgd2lkdGg9IjE0OSIgLz4KICAgICAgPGhzdGVtIHBv
+        cz0iNzQxIiB3aWR0aD0iLTIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxOTci
+        IHdpZHRoPSI2MyIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDEyIiB3aWR0aD0i
+        MzAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
+        ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDciPgog
+        ICAgICA8aHN0ZW0gcG9zPSItMzEiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhz
+        dGVtIHBvcz0iMTM5IiB3aWR0aD0iMTQ5IiAvPgogICAgICA8aHN0ZW0gcG9z
+        PSI3NDEiIHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE0IiB3
+        aWR0aD0iMTkxIiAvPgogICAgICA8dnN0ZW0gcG9zPSIzMjgiIHdpZHRoPSIx
+        MTQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjU0NyIgd2lkdGg9IjMwIiAvPgog
+        ICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+      </data>
+    </dict>
   </lib>
 </glyph>
