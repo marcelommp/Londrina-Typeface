@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeeighths" format="1">
+  <advance width="624"/>
+  <unicode hex="215C"/>
+  <outline>
+    <contour>
+      <point x="287" y="-16" type="line" name="hr01" smooth="yes"/>
+      <point x="350" y="149"/>
+      <point x="408" y="324"/>
+      <point x="468" y="501" type="curve"/>
+      <point x="530" y="688" type="line"/>
+      <point x="525" y="693"/>
+      <point x="517" y="696"/>
+      <point x="506" y="698" type="curve"/>
+      <point x="510" y="708" type="line"/>
+      <point x="499" y="717"/>
+      <point x="481" y="719"/>
+      <point x="462" y="719" type="curve" smooth="yes"/>
+      <point x="447" y="719"/>
+      <point x="434" y="718"/>
+      <point x="422" y="718" type="curve" smooth="yes"/>
+      <point x="414" y="718"/>
+      <point x="407" y="719"/>
+      <point x="400" y="721" type="curve"/>
+      <point x="328" y="454"/>
+      <point x="234" y="237"/>
+      <point x="151" y="-14" type="curve"/>
+      <point x="162" y="-10"/>
+      <point x="170" y="-9"/>
+      <point x="179" y="-8" type="curve"/>
+      <point x="176" y="-17"/>
+      <point x="174" y="-25"/>
+      <point x="171" y="-34" type="curve"/>
+      <point x="184" y="-30"/>
+      <point x="197" y="-28"/>
+      <point x="210" y="-28" type="curve" name="hr02" smooth="yes"/>
+      <point x="222" y="-28"/>
+      <point x="234" y="-30"/>
+      <point x="246" y="-30" type="curve" smooth="yes"/>
+      <point x="269" y="-30"/>
+      <point x="281" y="-33"/>
+      <point x="286" y="-18" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="60" y="294" type="line"/>
+      <point x="60" y="293" type="line"/>
+      <point x="65" y="289"/>
+      <point x="71" y="284"/>
+      <point x="82" y="281" type="curve"/>
+      <point x="82" y="282" type="line"/>
+      <point x="106" y="271"/>
+      <point x="122" y="272"/>
+      <point x="145" y="272" type="curve" smooth="yes"/>
+      <point x="237" y="272"/>
+      <point x="257" y="324"/>
+      <point x="262" y="380" type="curve"/>
+      <point x="262" y="392" type="line" smooth="yes"/>
+      <point x="263" y="419"/>
+      <point x="264" y="447"/>
+      <point x="264" y="475" type="curve" smooth="yes"/>
+      <point x="264" y="502"/>
+      <point x="263" y="529"/>
+      <point x="263" y="557" type="curve" smooth="yes"/>
+      <point x="263" y="565" type="line" smooth="yes"/>
+      <point x="263" y="577"/>
+      <point x="261" y="588"/>
+      <point x="254" y="599" type="curve"/>
+      <point x="255" y="599" type="line"/>
+      <point x="231" y="634"/>
+      <point x="189" y="666"/>
+      <point x="129" y="666" type="curve" smooth="yes"/>
+      <point x="78" y="666"/>
+      <point x="25" y="644"/>
+      <point x="12" y="596" type="curve"/>
+      <point x="13" y="596" type="line"/>
+      <point x="10" y="589"/>
+      <point x="9" y="580"/>
+      <point x="9" y="569" type="curve" smooth="yes"/>
+      <point x="9" y="564"/>
+      <point x="10" y="560"/>
+      <point x="10" y="557" type="curve" smooth="yes"/>
+      <point x="10" y="536" type="line"/>
+      <point x="30" y="536" type="line"/>
+      <point x="30" y="517" type="line"/>
+      <point x="79" y="516" type="line"/>
+      <point x="79" y="500"/>
+      <point x="77" y="489"/>
+      <point x="77" y="476" type="curve" smooth="yes"/>
+      <point x="77" y="462"/>
+      <point x="80" y="449"/>
+      <point x="85" y="436" type="curve"/>
+      <point x="88" y="436"/>
+      <point x="93" y="437"/>
+      <point x="98" y="438" type="curve"/>
+      <point x="99" y="429"/>
+      <point x="102" y="422"/>
+      <point x="105" y="416" type="curve"/>
+      <point x="113" y="417"/>
+      <point x="123" y="418"/>
+      <point x="132" y="418" type="curve" smooth="yes"/>
+      <point x="139" y="418"/>
+      <point x="148" y="419"/>
+      <point x="148" y="414" type="curve" smooth="yes"/>
+      <point x="148" y="409"/>
+      <point x="147" y="405"/>
+      <point x="145" y="402" type="curve" smooth="yes"/>
+      <point x="146" y="403" type="line" smooth="yes"/>
+      <point x="143" y="398"/>
+      <point x="137" y="395"/>
+      <point x="130" y="395" type="curve" smooth="yes"/>
+      <point x="123" y="395"/>
+      <point x="115" y="396"/>
+      <point x="115" y="405" type="curve"/>
+      <point x="108" y="405" type="line"/>
+      <point x="101" y="412"/>
+      <point x="97" y="418"/>
+      <point x="95" y="425" type="curve"/>
+      <point x="86" y="425"/>
+      <point x="79" y="426"/>
+      <point x="74" y="426" type="curve" smooth="yes"/>
+      <point x="48" y="426"/>
+      <point x="43" y="422"/>
+      <point x="11" y="422" type="curve" name="hr03"/>
+      <point x="11" y="360"/>
+      <point x="13" y="341"/>
+      <point x="33" y="318" type="curve"/>
+      <point x="41" y="314" type="line"/>
+      <point x="40" y="313" type="line"/>
+      <point x="39" y="314" type="line" smooth="yes"/>
+      <point x="44" y="309"/>
+      <point x="48" y="303"/>
+      <point x="53" y="298" type="curve"/>
+    </contour>
+    <contour>
+      <point x="635" y="244" type="line" smooth="yes"/>
+      <point x="635" y="291"/>
+      <point x="609" y="322"/>
+      <point x="594" y="331" type="curve"/>
+      <point x="587" y="342"/>
+      <point x="579" y="349"/>
+      <point x="572" y="352" type="curve"/>
+      <point x="573" y="352" type="line"/>
+      <point x="552" y="363"/>
+      <point x="531" y="365"/>
+      <point x="508" y="365" type="curve" smooth="yes"/>
+      <point x="443" y="365"/>
+      <point x="408" y="318"/>
+      <point x="408" y="251" type="curve" smooth="yes"/>
+      <point x="408" y="223"/>
+      <point x="415" y="201"/>
+      <point x="428" y="181" type="curve"/>
+      <point x="412" y="158"/>
+      <point x="405" y="131"/>
+      <point x="405" y="104" type="curve" smooth="yes"/>
+      <point x="405" y="32"/>
+      <point x="455" y="-28"/>
+      <point x="531" y="-28" type="curve" smooth="yes"/>
+      <point x="603" y="-28"/>
+      <point x="634" y="20"/>
+      <point x="634" y="81" type="curve" name="hr04" smooth="yes"/>
+      <point x="634" y="108"/>
+      <point x="625" y="136"/>
+      <point x="606" y="157" type="curve"/>
+      <point x="625" y="176"/>
+      <point x="635" y="201"/>
+      <point x="635" y="230" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="258" y="8" type="curve" smooth="yes"/>
+      <point x="257" y="7"/>
+      <point x="257" y="6"/>
+      <point x="256" y="5" type="curve" smooth="yes"/>
+      <point x="254" y="1" type="line" smooth="yes"/>
+      <point x="253" y="0"/>
+      <point x="248" y="0"/>
+      <point x="241" y="0" type="curve" smooth="yes"/>
+      <point x="224" y="0"/>
+      <point x="197" y="2"/>
+      <point x="180" y="2" type="curve" name="hr05" smooth="yes"/>
+      <point x="173" y="2"/>
+      <point x="168" y="2"/>
+      <point x="167" y="1" type="curve"/>
+      <point x="247" y="243"/>
+      <point x="343" y="472"/>
+      <point x="407" y="709" type="curve"/>
+      <point x="409" y="708"/>
+      <point x="413" y="708"/>
+      <point x="420" y="708" type="curve" smooth="yes"/>
+      <point x="435" y="708"/>
+      <point x="455" y="710"/>
+      <point x="472" y="710" type="curve" smooth="yes"/>
+      <point x="484" y="710"/>
+      <point x="494" y="709"/>
+      <point x="499" y="705" type="curve"/>
+      <point x="499" y="704" type="line"/>
+      <point x="419" y="467"/>
+      <point x="343" y="229"/>
+    </contour>
+    <contour>
+      <point x="605" y="250" type="line" smooth="yes"/>
+      <point x="605" y="222"/>
+      <point x="592" y="196"/>
+      <point x="572" y="177" type="curve"/>
+      <point x="593" y="158"/>
+      <point x="604" y="129"/>
+      <point x="604" y="101" type="curve" smooth="yes"/>
+      <point x="604" y="45"/>
+      <point x="575" y="2"/>
+      <point x="511" y="2" type="curve" smooth="yes"/>
+      <point x="447" y="2"/>
+      <point x="415" y="44"/>
+      <point x="415" y="104" type="curve" smooth="yes"/>
+      <point x="415" y="131"/>
+      <point x="422" y="160"/>
+      <point x="441" y="180" type="curve"/>
+      <point x="426" y="199"/>
+      <point x="418" y="223"/>
+      <point x="418" y="251" type="curve" smooth="yes"/>
+      <point x="418" y="312"/>
+      <point x="449" y="355"/>
+      <point x="508" y="355" type="curve" smooth="yes"/>
+      <point x="536" y="355"/>
+      <point x="605" y="357"/>
+      <point x="605" y="264" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="41" y="324" type="curve"/>
+      <point x="20" y="350"/>
+      <point x="25" y="374"/>
+      <point x="20" y="411" type="curve"/>
+      <point x="21" y="412" type="line"/>
+      <point x="41" y="412"/>
+      <point x="62" y="416"/>
+      <point x="86" y="416" type="curve"/>
+      <point x="87" y="416" type="line"/>
+      <point x="92" y="399"/>
+      <point x="111" y="384"/>
+      <point x="130" y="384" type="curve" name="hr06" smooth="yes"/>
+      <point x="142" y="384"/>
+      <point x="159" y="394"/>
+      <point x="159" y="414" type="curve" smooth="yes"/>
+      <point x="159" y="437"/>
+      <point x="137" y="449"/>
+      <point x="112" y="449" type="curve" name="hr07" smooth="yes"/>
+      <point x="105" y="449"/>
+      <point x="98" y="448"/>
+      <point x="91" y="447" type="curve"/>
+      <point x="88" y="452"/>
+      <point x="87" y="460"/>
+      <point x="87" y="471" type="curve" smooth="yes"/>
+      <point x="87" y="486"/>
+      <point x="89" y="500"/>
+      <point x="89" y="512" type="curve" smooth="yes"/>
+      <point x="89" y="528"/>
+      <point x="158" y="506"/>
+      <point x="158" y="546" type="curve" smooth="yes"/>
+      <point x="158" y="567"/>
+      <point x="150" y="577"/>
+      <point x="134" y="577" type="curve" name="hr08" smooth="yes"/>
+      <point x="115" y="577"/>
+      <point x="93" y="563"/>
+      <point x="86" y="547" type="curve"/>
+      <point x="81" y="547"/>
+      <point x="65" y="545"/>
+      <point x="50" y="546" type="curve" smooth="yes"/>
+      <point x="20" y="547" type="line"/>
+      <point x="20" y="554"/>
+      <point x="19" y="563"/>
+      <point x="19" y="571" type="curve" smooth="yes"/>
+      <point x="19" y="630"/>
+      <point x="76" y="656"/>
+      <point x="129" y="656" type="curve" smooth="yes"/>
+      <point x="181" y="656"/>
+      <point x="233" y="631"/>
+      <point x="233" y="585" type="curve" smooth="yes"/>
+      <point x="233" y="578" type="line" smooth="yes"/>
+      <point x="233" y="550"/>
+      <point x="234" y="522"/>
+      <point x="234" y="494" type="curve" smooth="yes"/>
+      <point x="234" y="352"/>
+      <point x="224" y="302"/>
+      <point x="125" y="302" type="curve" smooth="yes"/>
+      <point x="74" y="302"/>
+      <point x="49" y="321"/>
+    </contour>
+    <contour>
+      <point x="481" y="271" type="line" smooth="yes"/>
+      <point x="480" y="269"/>
+      <point x="480" y="265"/>
+      <point x="480" y="259" type="curve" smooth="yes"/>
+      <point x="480" y="240"/>
+      <point x="488" y="220"/>
+      <point x="512" y="220" type="curve" smooth="yes"/>
+      <point x="531" y="220"/>
+      <point x="542" y="237"/>
+      <point x="542" y="257" type="curve" smooth="yes"/>
+      <point x="542" y="276"/>
+      <point x="532" y="295"/>
+      <point x="509" y="295" type="curve" smooth="yes"/>
+      <point x="502" y="295"/>
+      <point x="489" y="295"/>
+      <point x="482" y="276" type="curve"/>
+    </contour>
+    <contour>
+      <point x="479" y="125" type="curve" smooth="yes"/>
+      <point x="478" y="123"/>
+      <point x="478" y="118"/>
+      <point x="478" y="111" type="curve" smooth="yes"/>
+      <point x="478" y="90"/>
+      <point x="489" y="68"/>
+      <point x="509" y="68" type="curve" smooth="yes"/>
+      <point x="528" y="68"/>
+      <point x="538" y="86"/>
+      <point x="538" y="105" type="curve" smooth="yes"/>
+      <point x="538" y="125"/>
+      <point x="527" y="144"/>
+      <point x="504" y="144" type="curve" smooth="yes"/>
+      <point x="491" y="144"/>
+      <point x="483" y="138"/>
+    </contour>
+    <contour>
+      <point x="512" y="254" type="line"/>
+      <point x="511" y="253" type="line" smooth="yes"/>
+      <point x="515" y="265"/>
+      <point x="524" y="265"/>
+      <point x="529" y="265" type="curve" smooth="yes"/>
+      <point x="531" y="265" type="line"/>
+      <point x="532" y="263"/>
+      <point x="532" y="260"/>
+      <point x="532" y="257" type="curve" name="hr09" smooth="yes"/>
+      <point x="532" y="242"/>
+      <point x="525" y="230"/>
+      <point x="512" y="230" type="curve" smooth="yes"/>
+      <point x="510" y="230" type="line"/>
+      <point x="510" y="239" type="line" smooth="yes"/>
+      <point x="510" y="245"/>
+      <point x="510" y="249"/>
+      <point x="511" y="251" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="508" y="102" type="line"/>
+      <point x="511" y="110"/>
+      <point x="516" y="114"/>
+      <point x="524" y="114" type="curve" smooth="yes"/>
+      <point x="527" y="114" type="line"/>
+      <point x="527" y="111"/>
+      <point x="528" y="108"/>
+      <point x="528" y="105" type="curve" smooth="yes"/>
+      <point x="528" y="90"/>
+      <point x="521" y="78"/>
+      <point x="509" y="78" type="curve"/>
+      <point x="508" y="81"/>
+      <point x="508" y="85"/>
+      <point x="508" y="91" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="120" y="529" type="curve"/>
+      <point x="128" y="538"/>
+      <point x="137" y="544"/>
+      <point x="148" y="546" type="curve"/>
+      <point x="147" y="531"/>
+      <point x="135" y="530"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMSI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0xMyIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iNjgiIHdpZHRoPSI3NiIgLz4KICAgICAgPGhzdGVtIHBv
+        cz0iMjIwIiB3aWR0aD0iODIiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjM4NCIg
+        d2lkdGg9IjQyIiAvPgogICAgICA8aHN0ZW0gcG9zPSI3MjEiIHdpZHRoPSIt
+        MjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjciIHdpZHRoPSIxNDgiIC8+CiAg
+        ICAgIDx2c3RlbSBwb3M9IjIzMCIgd2lkdGg9IjMwIiAvPgogICAgICA8dnN0
+        ZW0gcG9zPSI0MDQiIHdpZHRoPSIxMzQiIC8+CiAgICAgIDx2c3RlbSBwb3M9
+        IjYwMCIgd2lkdGg9IjMwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRz
+        ZXQgcG9pbnRUYWc9ImhyMDIiPgogICAgICA8aHN0ZW0gcG9zPSItMjgiIHdp
+        ZHRoPSIzMCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNjgiIHdpZHRoPSI3NiIg
+        Lz4KICAgICAgPGhzdGVtIHBvcz0iMjcyIiB3aWR0aD0iOTMiIC8+CiAgICAg
+        IDxoc3RlbSBwb3M9IjM4NCIgd2lkdGg9IjQyIiAvPgogICAgICA8aHN0ZW0g
+        cG9zPSI3MjEiIHdpZHRoPSItMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9Ijcz
+        IiB3aWR0aD0iODIiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIzMCIgd2lkdGg9
+        IjMwIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0MDQiIHdpZHRoPSIxMzQiIC8+
+        CiAgICAgIDx2c3RlbSBwb3M9IjYwMCIgd2lkdGg9IjMwIiAvPgogICAgPC9o
+        aW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgogICAgICA8
+        aHN0ZW0gcG9zPSItMjgiIHdpZHRoPSIzMCIgLz4KICAgICAgPGhzdGVtIHBv
+        cz0iNjgiIHdpZHRoPSI3NiIgLz4KICAgICAgPGhzdGVtIHBvcz0iMjcyIiB3
+        aWR0aD0iOTMiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjM4NCIgd2lkdGg9IjQy
+        IiAvPgogICAgICA8aHN0ZW0gcG9zPSI3MjEiIHdpZHRoPSItMjAiIC8+CiAg
+        ICAgIDx2c3RlbSBwb3M9IjciIHdpZHRoPSIxNDgiIC8+CiAgICAgIDx2c3Rl
+        bSBwb3M9IjIzMCIgd2lkdGg9IjMwIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0
+        MDQiIHdpZHRoPSIxMzQiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjYwMCIgd2lk
+        dGg9IjMwIiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRU
+        YWc9ImhyMDQiPgogICAgICA8aHN0ZW0gcG9zPSIwIiB3aWR0aD0iLTIwIiAv
+        PgogICAgICA8aHN0ZW0gcG9zPSI2OCIgd2lkdGg9Ijc2IiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSIyMjAiIHdpZHRoPSI4MiIgLz4KICAgICAgPGhzdGVtIHBv
+        cz0iMzg0IiB3aWR0aD0iNDIiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjcyMSIg
+        d2lkdGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNyIgd2lkdGg9IjE0
+        OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjMwIiB3aWR0aD0iMzAiIC8+CiAg
+        ICAgIDx2c3RlbSBwb3M9IjQwNCIgd2lkdGg9IjEzNCIgLz4KICAgICAgPHZz
+        dGVtIHBvcz0iNjAwIiB3aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+        ICA8aGludHNldCBwb2ludFRhZz0iaHIwNSI+CiAgICAgIDxoc3RlbSBwb3M9
+        Ii0yOCIgd2lkdGg9IjMwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI2OCIgd2lk
+        dGg9Ijc2IiAvPgogICAgICA8aHN0ZW0gcG9zPSIyMjAiIHdpZHRoPSI4MiIg
+        Lz4KICAgICAgPGhzdGVtIHBvcz0iNDEyIiB3aWR0aD0iMzciIC8+CiAgICAg
+        IDxoc3RlbSBwb3M9IjcyMSIgd2lkdGg9Ii0yMCIgLz4KICAgICAgPHZzdGVt
+        IHBvcz0iNyIgd2lkdGg9IjE0OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjMw
+        IiB3aWR0aD0iMTgxIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0NzYiIHdpZHRo
+        PSI2MiIgLz4KICAgICAgPHZzdGVtIHBvcz0iNjAwIiB3aWR0aD0iMzAiIC8+
+        CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwNiI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0yOCIgd2lkdGg9IjMwIiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSI2OCIgd2lkdGg9Ijc2IiAvPgogICAgICA8aHN0ZW0gcG9z
+        PSIyMjAiIHdpZHRoPSI4MiIgLz4KICAgICAgPGhzdGVtIHBvcz0iMzg0IiB3
+        aWR0aD0iNDIiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjcyMSIgd2lkdGg9Ii0y
+        MCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNyIgd2lkdGg9IjE0OCIgLz4KICAg
+        ICAgPHZzdGVtIHBvcz0iMjMwIiB3aWR0aD0iMzAiIC8+CiAgICAgIDx2c3Rl
+        bSBwb3M9IjQwNCIgd2lkdGg9IjEzNCIgLz4KICAgICAgPHZzdGVtIHBvcz0i
+        NjAwIiB3aWR0aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNl
+        dCBwb2ludFRhZz0iaHIwNyI+CiAgICAgIDxoc3RlbSBwb3M9Ii0yOCIgd2lk
+        dGg9IjMwIiAvPgogICAgICA8aHN0ZW0gcG9zPSI2OCIgd2lkdGg9Ijc2IiAv
+        PgogICAgICA8aHN0ZW0gcG9zPSIyMjAiIHdpZHRoPSI4MiIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iNDEyIiB3aWR0aD0iMzciIC8+CiAgICAgIDxoc3RlbSBw
+        b3M9IjcyMSIgd2lkdGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNyIg
+        d2lkdGg9IjE0OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjMwIiB3aWR0aD0i
+        MzAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQwNCIgd2lkdGg9IjEzNCIgLz4K
+        ICAgICAgPHZzdGVtIHBvcz0iNjAwIiB3aWR0aD0iMzAiIC8+CiAgICA8L2hp
+        bnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwOCI+CiAgICAgIDxo
+        c3RlbSBwb3M9Ii0yOCIgd2lkdGg9IjMwIiAvPgogICAgICA8aHN0ZW0gcG9z
+        PSI2OCIgd2lkdGg9Ijc2IiAvPgogICAgICA8aHN0ZW0gcG9zPSIyMjAiIHdp
+        ZHRoPSI4MiIgLz4KICAgICAgPGhzdGVtIHBvcz0iNDEyIiB3aWR0aD0iMTY1
+        IiAvPgogICAgICA8aHN0ZW0gcG9zPSI3MjEiIHdpZHRoPSItMjAiIC8+CiAg
+        ICAgIDx2c3RlbSBwb3M9IjciIHdpZHRoPSIxNDgiIC8+CiAgICAgIDx2c3Rl
+        bSBwb3M9IjIzMCIgd2lkdGg9IjMwIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0
+        NzYiIHdpZHRoPSI2MiIgLz4KICAgICAgPHZzdGVtIHBvcz0iNjAwIiB3aWR0
+        aD0iMzAiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRh
+        Zz0iaHIwOSI+CiAgICAgIDxoc3RlbSBwb3M9Ii0yOCIgd2lkdGg9IjMwIiAv
+        PgogICAgICA8aHN0ZW0gcG9zPSI2OCIgd2lkdGg9Ijc2IiAvPgogICAgICA8
+        aHN0ZW0gcG9zPSIyMjAiIHdpZHRoPSI4MiIgLz4KICAgICAgPGhzdGVtIHBv
+        cz0iMzg0IiB3aWR0aD0iNDIiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjcyMSIg
+        d2lkdGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNyIgd2lkdGg9IjE0
+        OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjMwIiB3aWR0aD0iMzAiIC8+CiAg
+        ICAgIDx2c3RlbSBwb3M9IjUyOCIgd2lkdGg9IjEwMiIgLz4KICAgIDwvaGlu
+        dHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
+  </lib>
+</glyph>

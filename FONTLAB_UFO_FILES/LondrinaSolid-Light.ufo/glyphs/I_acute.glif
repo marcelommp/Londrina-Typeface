@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="1">
+  <advance width="259"/>
+  <unicode hex="00CD"/>
+  <outline>
+    <contour>
+      <point x="188" y="703" type="curve"/>
+      <point x="188" y="699" type="line" smooth="yes"/>
+      <point x="187" y="469"/>
+      <point x="177" y="234"/>
+      <point x="187" y="3" type="curve"/>
+      <point x="169" y="-10"/>
+      <point x="94" y="2"/>
+      <point x="67" y="-4" type="curve"/>
+      <point x="71" y="81"/>
+      <point x="72" y="175"/>
+      <point x="70" y="274" type="curve"/>
+      <point x="69" y="374"/>
+      <point x="67" y="461"/>
+      <point x="66" y="534" type="curve" smooth="yes"/>
+      <point x="66" y="592"/>
+      <point x="69" y="650"/>
+      <point x="75" y="706" type="curve" smooth="yes"/>
+      <point x="75" y="708" type="line"/>
+      <point x="113" y="711"/>
+      <point x="116" y="704"/>
+    </contour>
+    <contour>
+      <point x="296" y="858" type="curve"/>
+      <point x="279" y="876"/>
+      <point x="262" y="894"/>
+      <point x="245" y="911" type="curve"/>
+      <point x="205" y="876"/>
+      <point x="132" y="796"/>
+      <point x="85" y="753" type="curve"/>
+      <point x="99" y="749"/>
+      <point x="145" y="745"/>
+      <point x="185" y="750" type="curve"/>
+      <point x="193" y="764"/>
+      <point x="287" y="853"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
