@@ -1,83 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
 	<key>com.schriftgestaltung.disablesLastChange</key>
 	<true/>
-	<key>com.schriftgestaltung.font.Disable Last Change</key>
-	<integer>1</integer>
 	<key>com.schriftgestaltung.font.Use Line Breaks</key>
 	<integer>1</integer>
 	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
 	<integer>1</integer>
-	<key>com.schriftgestaltung.font.description</key>
-	<string></string>
-	<key>com.schriftgestaltung.font.fsType</key>
-	<array>
-	</array>
 	<key>com.schriftgestaltung.font.license</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>com.schriftgestaltung.font.licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
-	<key>com.schriftgestaltung.font.userData</key>
-	<dict>
-		<key>com.schriftgestaltung.font.Disable Last Change</key>
-		<integer>1</integer>
-		<key>com.schriftgestaltung.font.Use Line Breaks</key>
-		<integer>1</integer>
-		<key>com.schriftgestaltung.font.Use Typo Metrics</key>
-		<integer>1</integer>
-		<key>com.schriftgestaltung.font.description</key>
-		<string></string>
-		<key>com.schriftgestaltung.font.fsType</key>
-		<array>
-		</array>
-		<key>com.schriftgestaltung.font.license</key>
-		<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
-		<key>com.schriftgestaltung.font.licenseURL</key>
-		<string>http://scripts.sil.org/OFL</string>
-		<key>com.schriftgestaltung.font.vendorID</key>
-		<string>PYRS</string>
-		<key>com.typemytype.robofont.guides</key>
-		<array>
-			<dict>
-				<key>angle</key>
-				<integer>0</integer>
-				<key>isGlobal</key>
-				<true/>
-				<key>magnetic</key>
-				<integer>5</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>993</integer>
-			</dict>
-			<dict>
-				<key>angle</key>
-				<integer>0</integer>
-				<key>isGlobal</key>
-				<true/>
-				<key>magnetic</key>
-				<integer>5</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>993</integer>
-			</dict>
-		</array>
-	</dict>
-	<key>com.schriftgestaltung.font.vendorID</key>
-	<string>PYRS</string>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>2B42CF6B-015A-4130-B76E-9500DFE5E8F9</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
+	<key>com.schriftgestaltung.master.name</key>
+	<string>Light</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
-	<key>com.schriftgestaltung.weight</key>
-	<string>Light</string>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>993</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>993</integer>
+		</dict>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
